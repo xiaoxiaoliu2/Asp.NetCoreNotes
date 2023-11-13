@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherAppFinal", "WeatherAppFinal.csproj", "{6C8DFC7E-7DF0-4519-B679-A90E548E621B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{3F9EBA17-5C7A-4A2B-927F-B0CA2ACBB650}"
+	ProjectSection(SolutionItems) = preProject
+		CityWeather.cs = CityWeather.cs
+		Models.csproj = Models.csproj
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceContracts", "ServiceContracts", "{C22E925C-BC41-465F-86D5-9F4EE32D7A23}"
+	ProjectSection(SolutionItems) = preProject
+		iWeatherService.cs = iWeatherService.cs
+		ServiceContracts.csproj = ServiceContracts.csproj
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{E2BC9D81-ADA7-4CCB-973F-08C1D32D6752}"
+	ProjectSection(SolutionItems) = preProject
+		Services.csproj = Services.csproj
+		WeatherService.cs = WeatherService.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8DFC7E-7DF0-4519-B679-A90E548E621B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8DFC7E-7DF0-4519-B679-A90E548E621B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8DFC7E-7DF0-4519-B679-A90E548E621B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8DFC7E-7DF0-4519-B679-A90E548E621B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E8247CA-11C9-4BAF-B5C6-C8E33E5E97E7}
+	EndGlobalSection
+EndGlobal

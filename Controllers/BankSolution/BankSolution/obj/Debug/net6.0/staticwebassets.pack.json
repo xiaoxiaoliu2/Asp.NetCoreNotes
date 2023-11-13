@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Controllers/BankSolution/BankSolution/wwwroot/statement.pdf",
+      "PackagePath": "staticwebassets/statement.pdf"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.BankSolution.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.BankSolution.props",
+      "PackagePath": "build\\BankSolution.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BankSolution.props",
+      "PackagePath": "buildMultiTargeting\\BankSolution.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BankSolution.props",
+      "PackagePath": "buildTransitive\\BankSolution.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

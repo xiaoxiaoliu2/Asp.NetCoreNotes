@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{16F8E199-4F8D-4FFB-A32B-883BAAAD71DF}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/middleware/Program.cs" relfile="Program.cs" line="23" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/middleware/Program.cs" relfile="Program.cs" line="29" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/middleware/Program.cs" relfile="Program.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.middleware PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="127" />
+      <File FileName="Properties/launchSettings.json" Line="20" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="middleware" expanded="True">
+            <Node name="middleware" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

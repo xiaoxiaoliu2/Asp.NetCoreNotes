@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7BB3735F-54F3-490F-A424-448A40A86C68}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StockMarketSolution PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StockMarketSolution/Controllers/TradeController.cs">
+    <Files>
+      <File FileName="StockMarketSolution/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="StockMarketSolution/appsettings.json" Line="13" Column="22" />
+      <File FileName="StockMarketSolution/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Services/FinnhubService.cs" Line="43" Column="18" />
+      <File FileName="StockMarketSolution/Controllers/TradeController.cs" Line="59" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StockMarketSolution" expanded="True">
+            <Node name="Services" expanded="True" />
+            <Node name="StockMarketSolution" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TradeController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

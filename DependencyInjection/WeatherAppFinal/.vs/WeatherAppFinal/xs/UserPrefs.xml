@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3AC6BE09-4E50-4944-A563-D7DCA3B2E7EB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherAppFinal/Controllers/WeatherController.cs">
+    <Files>
+      <File FileName="WeatherAppFinal/Program.cs" Line="1" Column="1" />
+      <File FileName="WeatherAppFinal/iWeatherService.cs" Line="1" Column="1" />
+      <File FileName="WeatherAppFinal/Controllers/WeatherController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherAppFinal" expanded="True">
+            <Node name="WeatherAppFinal" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WeatherAppFinal PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

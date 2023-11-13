@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7B6EAC41-74FB-49B2-81E7-2005269A3616}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/MyFirstApp/MyFirstApp/Program.cs" relfile="MyFirstApp/Program.cs" line="9" column="5" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.middleware FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.test FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstApp" expanded="True" selected="True">
+            <Node name="middleware" expanded="True" />
+            <Node name="MyFirstApp" expanded="True" />
+            <Node name="test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Infrastructure/Stocks.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Core/Stocks.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Core/Stocks.Core.csproj",
+        "projectName": "Stocks.Core",
+        "projectPath": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Core/Stocks.Core.csproj",
+        "packagesPath": "/Users/lyg/.nuget/packages/",
+        "outputPath": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lyg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Infrastructure/Stocks.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Infrastructure/Stocks.Infrastructure.csproj",
+        "projectName": "Stocks.Infrastructure",
+        "projectPath": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Infrastructure/Stocks.Infrastructure.csproj",
+        "packagesPath": "/Users/lyg/.nuget/packages/",
+        "outputPath": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lyg/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Core/Stocks.Core.csproj": {
+                "projectPath": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Core/Stocks.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.11.0, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

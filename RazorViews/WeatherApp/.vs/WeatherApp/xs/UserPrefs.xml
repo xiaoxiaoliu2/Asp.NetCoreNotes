@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{FC8D2B87-D9B7-422A-880B-AD91278FB2A0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="WeatherApp/Program.cs" Line="9" Column="11" />
+      <File FileName="WeatherApp/Controllers/WeatherController.cs" Line="6" Column="30" />
+      <File FileName="WeatherApp/Views/_ViewImports.cshtml" Line="2" Column="1" />
+      <File FileName="WeatherApp/Views/Weather/City.cshtml" Line="7" Column="13" />
+      <File FileName="WeatherApp/Views/Weather/Index.cshtml" Line="33" Column="38" />
+      <File FileName="WeatherApp/Models/CityWeather.cs" Line="1" Column="21" />
+      <File FileName="WeatherApp/wwwroot/StyleSheet.css" Line="70" Column="2" />
+      <File FileName="WeatherApp/Views/_ViewStart.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherApp" expanded="True">
+            <Node name="WeatherApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Weather" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

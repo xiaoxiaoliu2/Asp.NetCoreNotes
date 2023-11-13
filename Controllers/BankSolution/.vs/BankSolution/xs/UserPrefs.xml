@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{26D2F59E-A3A6-43E5-8AE1-F92BBA70F8D7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BankSolution PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankSolution/Controllers/BankController.cs">
+    <Files>
+      <File FileName="BankSolution/Program.cs" Line="9" Column="53" />
+      <File FileName="BankSolution/Properties/launchSettings.json" Line="14" Column="47" />
+      <File FileName="BankSolution/Controllers/BankController.cs" Line="6" Column="109" />
+      <File FileName="BankSolution/Controllers/HomeController.cs" Line="13" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankSolution" expanded="True">
+            <Node name="BankSolution" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BankController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

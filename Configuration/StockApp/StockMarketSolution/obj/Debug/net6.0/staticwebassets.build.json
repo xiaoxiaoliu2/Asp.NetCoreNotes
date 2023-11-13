@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "HlBaUZAzDf7cIMWnYC9Tq7sc39PAv5qj/T33/CZXcuQ=",
+  "Source": "StockMarketSolution",
+  "BasePath": "_content/StockMarketSolution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockMarketSolution/wwwroot",
+      "Source": "StockMarketSolution",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Configuration/StockApp/StockMarketSolution/wwwroot/",
+      "BasePath": "_content/StockMarketSolution",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Configuration/StockApp/StockMarketSolution/wwwroot/Scripts/FinnhubScript.js",
+      "SourceId": "StockMarketSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Configuration/StockApp/StockMarketSolution/wwwroot/",
+      "BasePath": "_content/StockMarketSolution",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Scripts/FinnhubScript.js"
+    },
+    {
+      "Identity": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Configuration/StockApp/StockMarketSolution/wwwroot/StyleSheet.css",
+      "SourceId": "StockMarketSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Configuration/StockApp/StockMarketSolution/wwwroot/",
+      "BasePath": "_content/StockMarketSolution",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

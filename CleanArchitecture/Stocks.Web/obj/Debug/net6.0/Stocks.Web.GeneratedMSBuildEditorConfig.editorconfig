@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Stocks.Web
+build_property.RootNamespace = Stocks.Web
+build_property.ProjectDir = /Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/Shared/Components/SelectedStock/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU2VsZWN0ZWRTdG9jay9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/Stocks/Explore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3RvY2tzL0V4cGxvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/Trade/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhZGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/Trade/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhZGUvT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/Trade/OrdersPDF.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHJhZGUvT3JkZXJzUERGLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/CleanArchitecture/Stocks.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{027DBBF1-7C17-45CC-8DE0-DF1BF723D87F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Middlewaree/middlewarelogin/middlewarelogin/Program.cs" relfile="middlewarelogin/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Middlewaree/middlewarelogin/middlewarelogin/CustomMiddleware/LoginMiddleware.cs" relfile="middlewarelogin/CustomMiddleware/LoginMiddleware.cs" line="39" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Middlewaree/middlewarelogin/middlewarelogin/CustomMiddleware/LoginMiddleware.cs" relfile="middlewarelogin/CustomMiddleware/LoginMiddleware.cs" line="74" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Middlewaree/middlewarelogin/middlewarelogin/CustomMiddleware/LoginMiddleware.cs" relfile="middlewarelogin/CustomMiddleware/LoginMiddleware.cs" line="79" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Middlewaree/middlewarelogin/middlewarelogin/CustomMiddleware/LoginMiddleware.cs" relfile="middlewarelogin/CustomMiddleware/LoginMiddleware.cs" line="51" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.middlewarelogin PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="middlewarelogin" expanded="True">
+            <Node name="middlewarelogin" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

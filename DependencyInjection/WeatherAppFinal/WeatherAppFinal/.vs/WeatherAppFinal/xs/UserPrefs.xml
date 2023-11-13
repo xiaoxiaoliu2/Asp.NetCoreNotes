@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{6C8DFC7E-7DF0-4519-B679-A90E548E621B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WeatherAppFinal PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherService.cs">
+    <Files>
+      <File FileName="Controllers/WeatherController.cs" />
+      <File FileName="CityWeather.cs" />
+      <File FileName="WeatherService.cs" Line="10" Column="97" />
+      <File FileName="iWeatherService.cs" Line="18" Column="41" />
+      <File FileName="Program.cs" />
+      <File FileName="Views/Weather/Index.cshtml" />
+      <File FileName="Views/Weather/City.cshtml" />
+      <File FileName="Views/Shared/_Layout.cshtml" />
+      <File FileName="Views/_ViewImports.cshtml" />
+      <File FileName="Views/_ViewStart.cshtml" Line="3" Column="2" />
+      <File FileName="Views/Shared/Components/City/Default.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WeatherAppFinal" expanded="True">
+            <Node name="Models" expanded="True" />
+            <Node name="ServiceContracts" expanded="True" />
+            <Node name="Services" expanded="True">
+              <Node name="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/DependencyInjection/WeatherAppFinal/WeatherAppFinal/WeatherService.cs" selected="True" />
+            </Node>
+            <Node name="WeatherAppFinal" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="City" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Weather" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

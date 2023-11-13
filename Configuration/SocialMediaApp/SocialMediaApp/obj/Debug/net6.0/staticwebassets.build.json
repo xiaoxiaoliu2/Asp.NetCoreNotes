@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5w6H6FJouXn/ro3ugA3P6Ud19Ta9i+h99K3pQPz2fc0=",
+  "Source": "SocialMediaApp",
+  "BasePath": "_content/SocialMediaApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SocialMediaApp/wwwroot",
+      "Source": "SocialMediaApp",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Configuration/SocialMediaApp/SocialMediaApp/wwwroot/",
+      "BasePath": "_content/SocialMediaApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

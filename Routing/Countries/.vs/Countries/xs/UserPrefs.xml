@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0AAC74DD-6A46-4DB6-9137-2EA914EB841D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Routing/Countries/Countries/Program.cs" relfile="Countries/Program.cs" line="26" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Routing/Countries/Countries/Program.cs" relfile="Countries/Program.cs" line="38" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Routing/Countries/Countries/Program.cs" relfile="Countries/Program.cs" line="52" column="1" />
+      <Breakpoint file="/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Routing/Countries/Countries/Program.cs" relfile="Countries/Program.cs" line="75" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Countries PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Countries" expanded="True">
+            <Node name="Countries" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

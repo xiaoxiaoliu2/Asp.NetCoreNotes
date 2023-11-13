@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "r152Ynzv+ZtJjOzQQz9ewGxWZeHMUgTx0gAoPuKD9dI=",
+  "Source": "WeatherApp",
+  "BasePath": "_content/WeatherApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherApp/wwwroot",
+      "Source": "WeatherApp",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/RazorViews/WeatherApp/WeatherApp/wwwroot/",
+      "BasePath": "_content/WeatherApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/RazorViews/WeatherApp/WeatherApp/wwwroot/StyleSheet.css",
+      "SourceId": "WeatherApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/RazorViews/WeatherApp/WeatherApp/wwwroot/",
+      "BasePath": "_content/WeatherApp",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

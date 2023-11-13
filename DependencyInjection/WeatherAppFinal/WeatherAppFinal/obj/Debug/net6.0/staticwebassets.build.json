@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "0PpnNoqJCvzlG64wCJAiEmCbC0wgLdQDCN3qgVmsal4=",
+  "Source": "WeatherAppFinal",
+  "BasePath": "_content/WeatherAppFinal",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppFinal/wwwroot",
+      "Source": "WeatherAppFinal",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/DependencyInjection/WeatherAppFinal/WeatherAppFinal/wwwroot/",
+      "BasePath": "_content/WeatherAppFinal",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/DependencyInjection/WeatherAppFinal/WeatherAppFinal/wwwroot/StyleSheet.css",
+      "SourceId": "WeatherAppFinal",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/DependencyInjection/WeatherAppFinal/WeatherAppFinal/wwwroot/",
+      "BasePath": "_content/WeatherAppFinal",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/StyleSheet.css"
+    }
+  ]
+}

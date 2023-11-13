@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "0kt0cwyvJVDCp3QmDLN9dN0K3cmzbLaYrBJhfEsi+N4=",
+  "Source": "BankSolution",
+  "BasePath": "_content/BankSolution",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BankSolution/wwwroot",
+      "Source": "BankSolution",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Controllers/BankSolution/BankSolution/wwwroot/",
+      "BasePath": "_content/BankSolution",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Controllers/BankSolution/BankSolution/wwwroot/statement.pdf",
+      "SourceId": "BankSolution",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lyg/Desktop/cs/fullstack/asp.net core full stack/Controllers/BankSolution/BankSolution/wwwroot/",
+      "BasePath": "_content/BankSolution",
+      "RelativePath": "statement.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/statement.pdf"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<CityWeather>
+@*声明数据类型mention the data type of the model property，controller supplies the model object (CityWeather) to the view*@
+@*this view is strongly typed view, because it's strictly or tightly coupled with the person model class; can bind view to a collection type/list or an model object'*@
+@*to make it as a strongly typed view by adding a directive called @model CityWeather{modelclassname}
+    can also mention the full path of the model class @model WeatherAppFinal.Models.CityWeather
+    now this view is strongly typed views, it's binded to the specific model class CityWeather, means it's eligible to read the model property of CityWeather type
+    *@
+
+@{
+    //C# code, executed at the server
+    //local function: get css class based on ranges of fahrenheit value as instructed in the requirement
+    string GetCssClassByFahrenheit(int TemperatureFahrenheit)
+    {
+        return TemperatureFahrenheit switch
+        {
+            (< 44) => "blue-back",
+            (>= 44) and (< 75) => "green-back",
+            (>= 75) => "orange-back"
+        };
+    }
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Weather</title>
+    <link href="~/StyleSheet.css" rel="stylesheet" />   @*localhost port number*@
+</head>
+<body>
+    <div class="container">
+        <div class="page-content">
+            <div class="margin-bottom">
+                <h1>Weather</h1>
+            </div>
+
+            <div class="margin-top-200 margin-left">
+                <div class="flex">
+                    @foreach (CityWeather city in Model)      // 调用上面C#定义的内容，后端执行，被发往前端， 其他html代码发到前端执行
+                    {
+                        <div class="box cursor-pointer w-30 @GetCssClassByFahrenheit(city.TemperatureFahrenheit)">
+                            <div class="flex-borderless">
+                                <div class="w-50">
+                                    <h2>@city.CityName</h2>
+                                    <h4 class="text-dark-grey">@city.DateAndTime.ToString("hh:mm tt")</h4>
+                                    <a href="~/weather/@city.CityUniqueCode" class="margin-top">Details</a>
+                                </div>
+                                <div class="w-50 border-left">
+                                    <h1 class="margin-left">@city.TemperatureFahrenheit <sup class="text-grey">&#8457</sup></h1>
+                                </div>
+                            </div>
+
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
+
+
+
+
+
+

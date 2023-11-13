@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+@*layout view cannot be executed directly, should be invoked from any content view
+    every view has the property of layout
+    *@
+<html>
+<head>
+ <meta name="viewport" content="width=device-width" />
+ <title>@ViewBag.Title</title>
+ <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+ <div class="container">
+  <div class="page-content">
+   <div class="margin-bottom">
+    <h1>Weather</h1>
+   </div>
+
+   @RenderBody()    @* the content of the view will be displayed here *@
+  </div>
+
+ </div>
+</body>
+</html>
+
